@@ -1,5 +1,5 @@
 # Movie Recommendation System 
-## OverviewS
+## Overviews
 
 This project implements a content-based movie recommendation system using textual features such as genres, keywords, tagline, cast, and director. It aims to provide personalized movie suggestions to users based on their preferences.
 
